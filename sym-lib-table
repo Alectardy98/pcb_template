@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "atmega32u4")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/atmega32u4.lib")(options "")(descr ""))
+  (lib (name "device")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/device.lib")(options "")(descr ""))
+  (lib (name "IBM")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/IBM.lib")(options "")(descr ""))
+  (lib (name "MCU_Microchip_ATmega")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/MCU_Microchip_ATmega.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "NUF2221W1T2G")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/NUF2221W1T2G.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/promicro.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "TEENSY 2.0")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/TEENSY 2.0.lib")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/teensy.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Kicad_lib/Schematic Library/Type-C.lib")(options "")(descr ""))
+)
