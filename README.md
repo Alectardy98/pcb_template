@@ -19,4 +19,4 @@ Released without warranty, use at your own risk.
 ---
 | Authors | 
 
-Gvalch-ca
+Alectardy98
